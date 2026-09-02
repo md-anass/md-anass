@@ -1,26 +1,331 @@
-<h1 align="center">Hi 👋, I'm Muhammad AnasKhalid</h1>
-<h3 align="center">A passionate full Stack Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=md-anass&label=Profile%20views&color=0e75b6&style=flat" alt="md-anass" /> </p>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=md-anass" alt="md-anass" /></a> </p>
+<!--                    ANIMATED HEADER                             -->
 
-- 🔭 I’m currently working on [Chorus](https://chorus.riseexperts.de/)
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-- 💬 Ask me about **Full-Stack Web Development • SaaS Development • POS & Store Management Systems • Next.js/React Projects • Supabase & PostgreSQL • Git/GitHub • Vercel Deployment • Python & Local AI • Voice Assistant Development • UI/UX & Modern Web Design • Debugging & Troubleshooting • E-commerce Projects • Software Product Development**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0c29,50:302b63,100:24243e&text=ANAS%20KHALID&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20AI%20BUILDER%20%7C%20FULL-STACK%20ENGINEER&descAlignY=60&descSize=16&animation=twinkling"/>
 
-- 📫 How to reach me **muhammadanaskhalid59@gmail.com**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad anaskhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad anaskhalid" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad anaskhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad anaskhalid" height="30" width="40" /></a>
-<a href="https://instagram.com/muhammad anaskhalid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad anaskhalid" height="30" width="40" /></a>
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&height=55&lines=Building+software+that+solves+real+problems+%F0%9F%9A%80;Full-Stack+Developer+%7C+AI+Builder+%F0%9F%A4%96;Turning+ideas+into+working+products+%E2%9A%A1;Currently+building+AI+%2B+SaaS+%2B+Offline+systems;Always+learning.+Always+building.+Always+shipping."/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://realm.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-anass&show_icons=true&locale=en&layout=compact" alt="md-anass" /></p>
+<img src="https://komarev.com/ghpvc/?username=md-anass&label=PROFILE%20VIEWS&color=8b5cf6&style=for-the-badge" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-anass&show_icons=true&locale=en" alt="md-anass" /></p>
+</div>
+
+---
+
+# 👋 Hey, I'm Anas
+
+```text
+╭──────────────────────────────────────────────────────────────╮
+│                                                              │
+│   👨‍💻 SOFTWARE DEVELOPER                                     │
+│                                                              │
+│   I build modern applications, AI systems and SaaS          │
+│   products with a focus on real-world usability.             │
+│                                                              │
+│   🚀 Build     🤖 Experiment     🧠 Learn     ⚡ Ship        │
+│                                                              │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+I'm a developer focused on building **full-stack applications, AI-powered tools, SaaS products, and business software**.
+
+I enjoy taking an idea from:
+
+`💡 Idea → 🎨 Design → 💻 Development → 🧪 Testing → 🚀 Deployment`
+
+### Currently building
+
+* 🤖 Local AI & voice assistant systems
+* 🧾 Offline-first POS / business management software
+* ⚡ Full-stack SaaS applications
+* 🧠 AI-powered productivity tools
+* 🎮 Interactive web experiences
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql&theme=dark" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite&theme=dark" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,supabase,postgres&theme=dark" />
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch&theme=dark" />
+
+### Tools & Deployment
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,cloudflare,docker&theme=dark" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+## 🧾 POS SaaS
+
+A modern **Point-of-Sale and business management platform** designed for stores and businesses.
+
+**Built with**
+
+`Next.js` `TypeScript` `Supabase` `PostgreSQL`
+
+**Focus**
+
+Inventory • Sales • Billing • Customers • Dashboard
+
+</td>
+
+<td width="50%">
+
+## 🤖 AI Voice Assistant
+
+A local AI voice assistant designed to work with **local speech recognition and local LLMs**.
+
+**Built with**
+
+`Python` `Vosk` `llama.cpp` `GGUF`
+
+**Focus**
+
+Speech • Local AI • Voice Commands • Offline Processing
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 🧠 NOVA AI
+
+An AI-powered application focused on creating an interactive experience around intelligent assistance.
+
+**Focus**
+
+AI • Automation • User Experience • Intelligent Tools
+
+</td>
+
+<td width="50%">
+
+## 🎮 Mind Card Game
+
+An interactive card-based game focused on creating a smooth and engaging browser experience.
+
+**Focus**
+
+Game Logic • UI • Animation • Interaction
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🧠 What I Like Building
+
+```text
+                     ┌───────────────────┐
+                     │       IDEAS       │
+                     └─────────┬─────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    ARCHITECTURE     │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │     DEVELOPMENT     │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+             ┌────────────┐       ┌────────────┐
+             │     AI     │       │    SaaS    │
+             └─────┬──────┘       └─────┬──────┘
+                   │                    │
+                   └─────────┬──────────┘
+                             ▼
+                    ┌─────────────────┐
+                    │   REAL PRODUCT  │
+                    └─────────────────┘
+```
+
+---
+
+# 🛠️ My Development Philosophy
+
+> **Don't just learn technology. Build something with it.**
+
+I believe the fastest way to improve as a developer is to continuously turn ideas into working software.
+
+```javascript
+const developer = {
+    name: "Anas Khalid",
+
+    mindset: [
+        "Build",
+        "Experiment",
+        "Break",
+        "Debug",
+        "Learn",
+        "Improve",
+        "Ship"
+    ],
+
+    goal: "Turn ideas into useful software 🚀"
+};
+```
+
+---
+
+# 🤖 AI × Software
+
+I'm particularly interested in combining **AI with traditional software engineering**.
+
+```text
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│                     AI APPLICATIONS                       │
+│                                                           │
+│       ┌──────────┐    ┌──────────┐    ┌──────────┐       │
+│       │   LLMs   │───▶│   AI     │───▶│ PRODUCT  │       │
+│       └──────────┘    │   LOGIC   │    └──────────┘       │
+│                       └──────────┘                        │
+│                            ▲                              │
+│                            │                              │
+│                      ┌─────┴─────┐                        │
+│                      │   VOICE   │                        │
+│                      │   DATA    │                        │
+│                      │ AUTOMATION│                        │
+│                      └───────────┘                        │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
+
+My current interests include:
+
+* 🧠 Local LLMs
+* 🎙️ Voice interfaces
+* 🔊 Speech recognition
+* 🏠 Offline AI
+* ⚙️ AI automation
+* 🔗 AI + SaaS
+* 🛠️ AI developer tools
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=md-anass&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-anass&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=md-anass&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=md-anass&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+
+</div>
+
+---
+
+# 💻 A Little More About Me
+
+```text
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  💡 I like turning ideas into products                     │
+│                                                            │
+│  🤖 Interested in AI and local AI systems                  │
+│                                                            │
+│  🌐 Full-stack web development                             │
+│                                                            │
+│  🧾 Building business & POS software                       │
+│                                                            │
+│  🧪 I enjoy experimenting with new technologies            │
+│                                                            │
+│  🚀 Goal: Build products people actually use               │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/md-anass">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://anas-six-gilt.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 💬 Let's build something interesting.
+
+**Ideas → Code → Products → Impact**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:24243e,50:302b63,100:0f0c29"/>
+
+</div>
